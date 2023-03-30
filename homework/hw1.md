@@ -29,10 +29,16 @@ FROM adm_rayoni_nag AS adm;
 # Calculate the total area of parks in each administrative region.
 
 ```sql
-SELECT adm.rayon_name, SUM(ST_Area(ST_Intersection(adm.geom, park.geom))) AS total_park_area
-FROM adm_rayoni_nag AS adm
-JOIN parkove_gradini_sofp AS park ON ST_Intersects(adm.geom, park.geom)
-GROUP BY adm.rayon_name;
+select
+	adm.obns_cyr,
+	SUM(ST_Area(ST_Intersection(adm.geom, park.geom))) as total_park_area
+from
+	adm_rayoni_nag_2017 as adm
+join parkove_gradini_sofpl_2019 as park on
+	ST_Intersects(adm.geom,
+	park.geom)
+group by
+	adm.obns_cyr ;
 ```
 # Find the distance between each medical center and the nearest pharmacy.
 
