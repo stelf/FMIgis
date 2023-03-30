@@ -3,11 +3,20 @@ Here are five homework assignment tasks that can be solved using popular spatial
 # Find the number of medical centers and pharmacies in each administrative region.
 
 ```sql
-SELECT adm.rayon_name, COUNT(med_centers.*) AS med_centers_count, COUNT(pharmacies_gmaps.*) AS pharmacies_count
-FROM adm_rayoni_nag AS adm
-LEFT JOIN med_centers ON ST_Within(med_centers.geom, adm.geom)
-LEFT JOIN pharmacies_gmaps ON ST_Within(pharmacies_gmaps.geom, adm.geom)
-GROUP BY adm.rayon_name;
+select
+	adm.obns_cyr,
+	COUNT(distinct med_centers.*) as med_centers_count,
+	COUNT(distinct pharmacies_gmaps.*) as pharmacies_count
+from
+	adm_rayoni_nag_2017 as adm
+left join med_centers_gmaps_2023 med_centers on
+	ST_Within(med_centers.geom,
+	adm.geom)
+left join pharmacies_gmaps_2023 pharmacies_gmaps on
+	ST_Within(pharmacies_gmaps.geom,
+	adm.geom)
+group by
+	adm.obns_cyr ;
 ```
 
 # Calculate the total area of parks in each administrative region.
