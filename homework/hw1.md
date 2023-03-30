@@ -19,6 +19,13 @@ group by
 	adm.obns_cyr ;
 ```
 
+```sql
+SELECT adm.rayon_name, 
+       (SELECT COUNT(*) FROM med_centers WHERE ST_Within(med_centers.geom, adm.geom)) AS med_centers_count, 
+       (SELECT COUNT(*) FROM pharmacies_gmaps WHERE ST_Within(pharmacies_gmaps.geom, adm.geom)) AS pharmacies_count
+FROM adm_rayoni_nag AS adm;
+```
+
 # Calculate the total area of parks in each administrative region.
 
 ```sql
