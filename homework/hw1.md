@@ -43,16 +43,6 @@ group by
 # Find the distance between each medical center and the nearest pharmacy.
 
 ```sql
-SELECT med_centers.id AS med_center_id, pharmacies_gmaps.id AS pharmacy_id, ST_Distance(med_centers.geom, pharmacies_gmaps.geom) AS distance
-FROM med_centers, pharmacies_gmaps
-WHERE med_centers.id IN (
-  SELECT DISTINCT ON (med_centers.id) med_centers.id
-  FROM med_centers, pharmacies_gmaps
-  ORDER BY med_centers.geom <-> pharmacies_gmaps.geom
-);
-```
-
-```sql
 select mcg.id as medcentr_id, 
 	   ljres.id as pharm_id, 
        mcg.geom,
