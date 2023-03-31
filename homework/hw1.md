@@ -52,20 +52,53 @@ WHERE med_centers.id IN (
 );
 ```
 
+```sql
+select mcg.id as medcentr_id, 
+	   ljres.id as pharm_id, 
+       mcg.geom,
+       ljres.geom,
+       ljres.geom <-> mcg.geom
+from med_centers_gmaps_2023 mcg,
+lateral
+	(select pg_in.geom, pg_in.id 
+	 from med_centers_gmaps_2023 mcg_in, 
+	      pharmacies_gmaps_2023 pg_in 
+	 where  mcg_in.id = mcg.id
+	 order by mcg_in.geom <-> pg_in.geom asc
+	 limit 1) ljres
+order by mcg.id;
+```
+
+```sql
+select * from (
+	select
+		mcg_in.id as medcentr_id,
+		pg_in.id as pharmacy_id,
+		rank() over (
+		   partition by mcg_in.id  
+		   order by mcg_in.geom <-> pg_in.geom asc ) rnk
+	from
+		med_centers_gmaps_2023 mcg_in, 
+		pharmacies_gmaps_2023 pg_in) inr where inr.rnk = 1;
+```
+
 # Identify urban entities with no medical centers or pharmacies.
 
 ```sql
-SELECT ue.id AS urban_entity_id
-FROM gradoustroystveni_edinici AS ue
-WHERE NOT EXISTS (
-  SELECT 1
-  FROM med_centers
-  WHERE ST_Within(med_centers.geom, ue.geom)
-) AND NOT EXISTS (
-  SELECT 1
-  FROM pharmacies_gmaps
-  WHERE ST_Within(pharmacies_gmaps.geom, ue.geom)
-);
+select
+	arn.id,
+	arn.geom,
+	arn.obns_cyr 
+from
+	adm_rayoni_nag_2017 arn 
+where not exists (
+	select 1 from med_centers_gmaps_2023 mcg 
+	where st_within (mcg.geom, arn.geom)
+) 
+and not exists (
+	select 1 from pharmacies_gmaps_2023 pg  
+	where st_within (pg.geom, arn.geom)
+)
 ```
 
 # Find the medical center or pharmacy closest to the centroid of each park.
