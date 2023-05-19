@@ -1,0 +1,1700 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9010129,
+          52.3672676
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9048171,
+          52.3603821
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9163699,
+          52.3646164
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8775959,
+          52.3850899
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86797,
+          52.3829994
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8494859,
+          52.3750992
+        ]
+      },
+      "properties": {
+        "label": "6 kasten/volken",
+        "type": "punt",
+        "volgnr": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856102,
+          52.3707886
+        ]
+      },
+      "properties": {
+        "label": "5 kasten/volken",
+        "type": "punt",
+        "volgnr": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8364592,
+          52.3349648
+        ]
+      },
+      "properties": {
+        "label": "14 kasten/volken",
+        "type": "punt",
+        "volgnr": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8653512,
+          52.3559074
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8745952,
+          52.3358612
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8933969,
+          52.3232956
+        ]
+      },
+      "properties": {
+        "label": "20 kasten/volken",
+        "type": "punt",
+        "volgnr": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9737902,
+          52.356678
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9117398,
+          52.3966103
+        ]
+      },
+      "properties": {
+        "label": "5 kasten/volken",
+        "type": "punt",
+        "volgnr": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8809371,
+          52.4218292
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9024739,
+          52.4015884
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9085159,
+          52.3999329
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9204898,
+          52.3833008
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.961935,
+          52.3867798
+        ]
+      },
+      "properties": {
+        "label": "30 kasten/volken",
+        "type": "punt",
+        "volgnr": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9537358,
+          52.3027153
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9263749,
+          52.4050179
+        ]
+      },
+      "properties": {
+        "label": "21 kasten/volken",
+        "type": "punt",
+        "volgnr": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9002228,
+          52.3763695
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7839599,
+          52.3600616
+        ]
+      },
+      "properties": {
+        "label": "10 kasten/volken",
+        "type": "punt",
+        "volgnr": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7717018,
+          52.379097
+        ]
+      },
+      "properties": {
+        "label": "6 + 2 kleintjes kasten/volken",
+        "type": "punt",
+        "volgnr": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7774458,
+          52.3747215
+        ]
+      },
+      "properties": {
+        "label": "120 kasten/volken",
+        "type": "punt",
+        "volgnr": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8660941,
+          52.3876457
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8745761,
+          52.3362732
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9155459,
+          52.333004
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9283571,
+          52.34972
+        ]
+      },
+      "properties": {
+        "label": "14 kasten/volken",
+        "type": "punt",
+        "volgnr": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8926549,
+          52.3491783
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.835207,
+          52.360157
+        ]
+      },
+      "properties": {
+        "label": "6 kasten/volken",
+        "type": "punt",
+        "volgnr": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9282222,
+          52.3698578
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.882287,
+          52.3639793
+        ]
+      },
+      "properties": {
+        "label": "5 kasten/volken",
+        "type": "punt",
+        "volgnr": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8893638,
+          52.3652344
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8641911,
+          52.3871269
+        ]
+      },
+      "properties": {
+        "label": "7 kasten/volken",
+        "type": "punt",
+        "volgnr": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9882898,
+          52.3274994
+        ]
+      },
+      "properties": {
+        "label": "7 kasten/volken",
+        "type": "punt",
+        "volgnr": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0004664,
+          52.3100519
+        ]
+      },
+      "properties": {
+        "label": "9 kasten/volken",
+        "type": "punt",
+        "volgnr": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8689761,
+          52.3861427
+        ]
+      },
+      "properties": {
+        "label": "5 kasten/volken",
+        "type": "punt",
+        "volgnr": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.907465,
+          52.3666725
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9721808,
+          52.305687
+        ]
+      },
+      "properties": {
+        "label": "10 kasten/volken",
+        "type": "punt",
+        "volgnr": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9865551,
+          52.3767471
+        ]
+      },
+      "properties": {
+        "label": "20 kasten/volken",
+        "type": "punt",
+        "volgnr": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9546499,
+          52.385128
+        ]
+      },
+      "properties": {
+        "label": "20 kasten/volken",
+        "type": "punt",
+        "volgnr": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9291229,
+          52.3521767
+        ]
+      },
+      "properties": {
+        "label": "12 kasten/volken",
+        "type": "punt",
+        "volgnr": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8509002,
+          52.3844337
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853312,
+          52.3768425
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9120798,
+          52.3813133
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8544669,
+          52.3871193
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8347168,
+          52.3865433
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7484941,
+          52.4018211
+        ]
+      },
+      "properties": {
+        "label": "8 kasten/volken",
+        "type": "punt",
+        "volgnr": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.804307,
+          52.3902435
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7738819,
+          52.4573555
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8158689,
+          52.3410835
+        ]
+      },
+      "properties": {
+        "label": "16 kasten/volken",
+        "type": "punt",
+        "volgnr": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7819319,
+          52.3731003
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.879231,
+          52.2909698
+        ]
+      },
+      "properties": {
+        "label": "60 kasten/volken",
+        "type": "punt",
+        "volgnr": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894846,
+          52.3222847
+        ]
+      },
+      "properties": {
+        "label": "12 kasten/volken",
+        "type": "punt",
+        "volgnr": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8288541,
+          52.3353577
+        ]
+      },
+      "properties": {
+        "label": "20 kasten/volken",
+        "type": "punt",
+        "volgnr": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8438039,
+          52.3690147
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8569012,
+          52.3247375
+        ]
+      },
+      "properties": {
+        "label": "14 kasten/volken",
+        "type": "punt",
+        "volgnr": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8098221,
+          52.3310356
+        ]
+      },
+      "properties": {
+        "label": "6 kasten/volken",
+        "type": "punt",
+        "volgnr": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8656979,
+          52.3600998
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8946409,
+          52.354084
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8641891,
+          52.3685684
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8457918,
+          52.3684921
+        ]
+      },
+      "properties": {
+        "label": "7 kasten/volken",
+        "type": "punt",
+        "volgnr": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9641562,
+          52.289238
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9014769,
+          52.3718338
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.885438,
+          52.3683434
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8263302,
+          52.230648
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8489838,
+          52.3074112
+        ]
+      },
+      "properties": {
+        "label": "8 kasten/volken",
+        "type": "punt",
+        "volgnr": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8631082,
+          52.285965
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8513942,
+          52.2765465
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9567389,
+          52.3484497
+        ]
+      },
+      "properties": {
+        "label": "6 kasten/volken",
+        "type": "punt",
+        "volgnr": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9011641,
+          52.3427582
+        ]
+      },
+      "properties": {
+        "label": "5 kasten/volken",
+        "type": "punt",
+        "volgnr": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.799706,
+          52.3382378
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8801069,
+          52.3414307
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8516488,
+          52.3650131
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9385991,
+          52.3403969
+        ]
+      },
+      "properties": {
+        "label": "12 kasten/volken",
+        "type": "punt",
+        "volgnr": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0021,
+          52.3453598
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8753262,
+          52.3373489
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0035849,
+          52.3093681
+        ]
+      },
+      "properties": {
+        "label": "10 kasten/volken",
+        "type": "punt",
+        "volgnr": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9734888,
+          52.3590393
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.824717,
+          52.3144226
+        ]
+      },
+      "properties": {
+        "label": "13 kasten/volken",
+        "type": "punt",
+        "volgnr": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8180289,
+          52.2880669
+        ]
+      },
+      "properties": {
+        "label": "7 kasten/volken",
+        "type": "punt",
+        "volgnr": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9185271,
+          52.3703041
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.894412,
+          52.3415985
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8568292,
+          52.3627548
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9655819,
+          52.3723412
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9010639,
+          52.3142967
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8765712,
+          52.3043137
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9022012,
+          52.2961159
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8686929,
+          52.280777
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8963361,
+          52.3374557
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8268862,
+          52.3459358
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8146682,
+          52.3454666
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8931651,
+          52.4181213
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9190922,
+          52.3654366
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7684779,
+          52.3333054
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9608188,
+          52.403511
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7850189,
+          52.3750305
+        ]
+      },
+      "properties": {
+        "label": "14 kasten/volken",
+        "type": "punt",
+        "volgnr": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7503638,
+          52.4108009
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.933085,
+          52.4010696
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9910388,
+          52.3594742
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8477931,
+          52.3866768
+        ]
+      },
+      "properties": {
+        "label": "1 kast/volk",
+        "type": "punt",
+        "volgnr": 101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9024451,
+          52.3604273
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7835052,
+          52.3818538
+        ]
+      },
+      "properties": {
+        "label": "4 kasten/volken",
+        "type": "punt",
+        "volgnr": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8708047,
+          52.3790828
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8974448,
+          52.3369745
+        ]
+      },
+      "properties": {
+        "label": "12 kasten/volken",
+        "type": "punt",
+        "volgnr": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9544738,
+          52.3527704
+        ]
+      },
+      "properties": {
+        "label": "3 kasten/volken",
+        "type": "punt",
+        "volgnr": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041129,
+          52.3703644
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8959482,
+          52.3692372
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9369836,
+          52.3183326
+        ]
+      },
+      "properties": {
+        "label": "5 kasten/volken",
+        "type": "punt",
+        "volgnr": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9920661,
+          52.3259839
+        ]
+      },
+      "properties": {
+        "label": "8 kasten/volken",
+        "type": "punt",
+        "volgnr": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.871061,
+          52.3762507
+        ]
+      },
+      "properties": {
+        "label": "2 kasten/volken",
+        "type": "punt",
+        "volgnr": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8085921,
+          52.3636397
+        ]
+      },
+      "properties": {
+        "label": "5 HvA Meurerhuis kasten/volken",
+        "type": "punt",
+        "volgnr": 113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908128,
+          52.358883
+        ]
+      },
+      "properties": {
+        "label": "1 HvA Kohnstamhuis kasten/volk",
+        "type": "punt",
+        "volgnr": 114
+      }
+    }
+  ]
+}
